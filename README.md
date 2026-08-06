@@ -12,7 +12,7 @@ pip install requests
 
 rm -rf Open
 
-git clone https://github.com/Bijoy-Kumar-SR/Open.git
+git clone https://github.com/BIJOY-CYBER-404/Open.git
 
 cd Open
 
